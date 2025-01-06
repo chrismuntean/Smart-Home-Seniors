@@ -10863,6 +10863,11 @@ p {
 }
 
 @media (max-width: 768px) {
+  .hourly-sec {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
   .hourly-desc {
     text-align: center;
     width: 100%;
